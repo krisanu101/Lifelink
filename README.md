@@ -55,4 +55,5 @@ database/   schema.sql (source), schema_mysql.sql, schema_sqlite.sql (ready to i
 - The built-in Python web server is fine for a small or medium site behind Caddy/nginx. For very high traffic, run several copies behind a load balancer.
 - Hospital accounts must be approved by an admin. Check real hospitals before approving them.
 - LifeLink is a connection tool, not a medical service. Never take money for blood.
+
   KRISANU DAS
